@@ -32,6 +32,30 @@ Some of its features include:
 
 Requires **iOS 17 or later**.
 
+### Community
+
+- **Telegram:** [@sidekitezhosix](https://t.me/sidekitezhosix)
+- **QQ group:** [1045595997](https://qun.qq.com/universal-share/share?ac=1&authKey=68WjRxihKNF6h0Tiy3YRf38laumuG2iWqSZrljs%2FDKwlbXh3VdjMIr8sh6Q265Cx&busi_data=eyJncm91cENvZGUiOiIxMDQ1NTk1OTk3IiwidG9rZW4iOiIzR09ZT2t5OUNha2NUN1J3OUNTalBxaUJ2ZU13NW9QakNidDJRRWdRZnp5VmxidzBuWGNxRUpIUFN6QUR2MVVtIiwidWluIjoiOTE3NjM5OTUwIn0%3D&data=OaVYdY30H8XnRS8e4AAQ-WCIXe6GHpc23EtL1risW5EbjS003_o-Qvx90Ldgqm9eRgi1DVQ247bltYfuoLXR1A&svctype=4&tempid=h5_group_info)
+
+### Support the author
+
+Donations are entirely voluntary. Thank you for supporting TGFile's continued maintenance.
+
+- **PayPal:** [Support via Ko-fi](https://ko-fi.com/zhosix)
+- **WeChat:** [View the appreciation code](https://github.com/user-attachments/assets/ddb9d35c-f82d-4840-b518-18808ab94202)
+- **Alipay:** [Open the payment link](https://qr.alipay.com/2m6148879y1ivwkicusrh9e) · [View the QR code](https://github.com/user-attachments/assets/025c6b45-919b-455a-a050-e52677bf0bb0)
+
+<details>
+<summary>WeChat and Alipay QR codes</summary>
+
+Click a code to view it at full size, then scan or save it using the corresponding app.
+
+| WeChat | Alipay |
+| :---: | :---: |
+| <a href="https://github.com/user-attachments/assets/ddb9d35c-f82d-4840-b518-18808ab94202"><img src="https://github.com/user-attachments/assets/ddb9d35c-f82d-4840-b518-18808ab94202" width="200" alt="WeChat appreciation code"></a> | <a href="https://github.com/user-attachments/assets/025c6b45-919b-455a-a050-e52677bf0bb0"><img src="https://github.com/user-attachments/assets/025c6b45-919b-455a-a050-e52677bf0bb0" width="200" alt="Alipay donation code"></a> |
+
+</details>
+
 **Support and security inquiries:** [sidekite@zhosix.com](mailto:sidekite@zhosix.com)
 
 ## 简体中文
@@ -65,5 +89,29 @@ Requires **iOS 17 or later**.
    提供多语言界面，按自己的使用习惯选择。
 
 支持 **iOS 17 及以上版本**。
+
+### 社群
+
+- **Telegram 交流群：** [@sidekitezhosix](https://t.me/sidekitezhosix)
+- **QQ 交流群：** [1045595997](https://qun.qq.com/universal-share/share?ac=1&authKey=68WjRxihKNF6h0Tiy3YRf38laumuG2iWqSZrljs%2FDKwlbXh3VdjMIr8sh6Q265Cx&busi_data=eyJncm91cENvZGUiOiIxMDQ1NTk1OTk3IiwidG9rZW4iOiIzR09ZT2t5OUNha2NUN1J3OUNTalBxaUJ2ZU13NW9QakNidDJRRWdRZnp5VmxidzBuWGNxRUpIUFN6QUR2MVVtIiwidWluIjoiOTE3NjM5OTUwIn0%3D&data=OaVYdY30H8XnRS8e4AAQ-WCIXe6GHpc23EtL1risW5EbjS003_o-Qvx90Ldgqm9eRgi1DVQ247bltYfuoLXR1A&svctype=4&tempid=h5_group_info)
+
+### 赞助
+
+赞助完全自愿，感谢你支持 TGFile 的持续维护。
+
+- **PayPal：** [通过 Ko-fi 赞助](https://ko-fi.com/zhosix)
+- **微信：** [查看微信赞赏码](https://github.com/user-attachments/assets/ddb9d35c-f82d-4840-b518-18808ab94202)
+- **支付宝：** [打开赞助链接](https://qr.alipay.com/2m6148879y1ivwkicusrh9e) · [查看二维码](https://github.com/user-attachments/assets/025c6b45-919b-455a-a050-e52677bf0bb0)
+
+<details>
+<summary>微信与支付宝赞助码</summary>
+
+点击二维码可查看原图，再使用对应 App 扫描或保存识别。
+
+| 微信 | 支付宝 |
+| :---: | :---: |
+| <a href="https://github.com/user-attachments/assets/ddb9d35c-f82d-4840-b518-18808ab94202"><img src="https://github.com/user-attachments/assets/ddb9d35c-f82d-4840-b518-18808ab94202" width="200" alt="微信赞赏码"></a> | <a href="https://github.com/user-attachments/assets/025c6b45-919b-455a-a050-e52677bf0bb0"><img src="https://github.com/user-attachments/assets/025c6b45-919b-455a-a050-e52677bf0bb0" width="200" alt="支付宝赞助码"></a> |
+
+</details>
 
 **支持与安全问题：** [sidekite@zhosix.com](mailto:sidekite@zhosix.com)
