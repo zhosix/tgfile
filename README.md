@@ -45,7 +45,7 @@ Donations are entirely voluntary. Thank you for supporting TGFile's continued ma
 - **WeChat:** [View the appreciation code](https://github.com/user-attachments/assets/ddb9d35c-f82d-4840-b518-18808ab94202)
 - **Alipay:** [Open the payment link](https://qr.alipay.com/2m6148879y1ivwkicusrh9e) · [View the QR code](https://github.com/user-attachments/assets/025c6b45-919b-455a-a050-e52677bf0bb0)
 
-<details>
+<details open>
 <summary>WeChat and Alipay QR codes</summary>
 
 Click a code to view it at full size, then scan or save it using the corresponding app.
@@ -103,7 +103,7 @@ Click a code to view it at full size, then scan or save it using the correspondi
 - **微信：** [查看微信赞赏码](https://github.com/user-attachments/assets/ddb9d35c-f82d-4840-b518-18808ab94202)
 - **支付宝：** [打开赞助链接](https://qr.alipay.com/2m6148879y1ivwkicusrh9e) · [查看二维码](https://github.com/user-attachments/assets/025c6b45-919b-455a-a050-e52677bf0bb0)
 
-<details>
+<details open>
 <summary>微信与支付宝赞助码</summary>
 
 点击二维码可查看原图，再使用对应 App 扫描或保存识别。
